@@ -1,0 +1,36 @@
+Bill of Materials for rp6502_hub_video_audio case:
+
+Vilros Micro USB to USB 4 Port OTG Hub, https://www.ebay.com/itm/313146204417, [$7]
+StarTech.com 1 ft / 30cm cable USB Type A (M) - 90 Degree Right Angle Micro-USB Type B, https://www.amazon.com/dp/B003YKX6WC/ref=dp_iou_view_item?ie=UTF8&th=1, [$7]
+VGA 5" 640x480 (4:3) LCD Screen + Driver Board ZJ050NA-08C, https://www.ebay.com/itm/113749676431, [$46]
+Stereo Enclosed Speaker Set - 3W 4 Ohm, https://www.adafruit.com/product/1669, [$8]
+Stereo Amplifier - 1.5W, https://www.sparkfun.com/products/14475, [$13]
+XL6009 DC Buck Boost Adjustable Voltage Module, https://www.ebay.com/itm/125104160678, [$3]
+Panel Mount 2.1mm DC barrel jack, https://www.adafruit.com/product/610, [$3]
+uxcell SPDT Panel Mount Micro Slide Switch, https://www.amazon.com/dp/B01NCWDJ18/ref=sspa_dk_detail_6?psc=1&pd_rd_i=B01NCWDJ18&pd_rd_w=zeI9f&content-id=amzn1.sym.f734d1a2-0bf9-4a26-ad34-2e1b969a5a75&pf_rd_p=f734d1a2-0bf9-4a26-ad34-2e1b969a5a75&pf_rd_r=CA3XFCAT47BWVYTMJERV&pd_rd_wg=p4yJz&pd_rd_r=d1854d54-ca77-4cff-8591-1aefc0c4c3e4&s=hi&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWw, [$9/5]
+PLA filament (or other non-shrinking variety -- tolerences are very tight!), [~$40/kg] 
+Plexiglass sheet - 150mm x 100mm x 3mm (optional), https://www.ebay.com/itm/143730245100, [$4]
+Brass Heat-Set Inserts - M3 x 4.2mm OD x 4mm long, qty 22, https://www.adafruit.com/product/4255, [$6/50]
+Cap Screws - 3mm x 4mm long, qty 8
+Cap Screws - 3mm x 8mm long, qty 2
+Cap Screws - 3mm x 12mm long, qty 4
+Cap Screws - 3mm x 20mm long, qty 2
+Flat Head Screws - 3mm x 8mm long, qty 8
+Nuts for 3mm Screws, qty 4
+Flat Washers for 3mm Screws (for display hinge), qty 2
+Split Lock Washers for 3mm Screws (act as springs for display hinge), qty 2
+Small Cable Ties, qty 2
+Heat-Shrink Tubing
+Ribbon Cable - ideally at least 14 wires wide, ~2 ft.
+Dupont connectors & headers, https://www.amazon.com/Dupont-Connector-Kit-Connectors-Plusivo/dp/B078RRPRQZ, [$12]
+
+Optional:
+7.2V Li-Ion 9600mAH 2C battery pack, https://www.powerstream.com/un38.3-qualified-lithium-packs.htm, [$46] 
+Li-Ion @c charger, https://www.powerstream.com/li-chargers-2-cell.htm, [$25] 
+
+Special Tools:
+Heat-Set Insert Soldering Iron Tip for M3 Inserts, https://www.adafruit.com/product/4239, [$10]
+Soldering Iron (that takes Hakko-style tips, for above), https://www.sparkfun.com/products/14456, [$17]
+Universal Crimping Pliers (for Dupont connectors), Universal Crimping Pliers, [$50]
+Superglue (for display hinge screws)
+Self-Adhesive Velcro strip (for battery pack)
