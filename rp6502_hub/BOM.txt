@@ -1,0 +1,17 @@
+Bill of Materials for rp6502_hub case:
+
+Vilros Micro USB to USB 4 Port OTG Hub, https://www.ebay.com/itm/313146204417, [$7]
+StarTech.com 1 ft / 30cm cable USB Type A (M) - 90 Degree Right Angle Micro-USB Type B, https://www.amazon.com/dp/B003YKX6WC/ref=dp_iou_view_item?ie=UTF8&th=1, [$7]
+PLA filament (or other non-shrinking variety -- tolerences are very tight!), [~$40/kg] 
+Plexiglass sheet - 150mm x 100mm x 3mm (optional), https://www.ebay.com/itm/143730245100, [$4]
+Brass Heat-Set Inserts - M3 x 4.2mm OD x 4mm long, qty 10, https://www.adafruit.com/product/4255, [$6/50]
+Cap Screws - 3mm x 4mm long, qty 4
+Cap Screws - 3mm x 8mm long, qty 2
+Flat Head Screws - 3mm x 8mm long, qty 8
+Nuts - 3mm, qty 4
+Small Cable Ties, qty 2
+Heat-Shrink Tubing
+
+Special Tools:
+Heat-Set Insert Soldering Iron Tip for M3 Inserts, https://www.adafruit.com/product/4239, [$10]
+Soldering Iron that takes Hakko-style tips, for above.
