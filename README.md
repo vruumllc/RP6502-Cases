@@ -17,7 +17,7 @@
 
 <br clear="right"/>
 
-#### rp6502_hub_video_audio directory: A case for board, hub, speakers, and display
+#### rp6502_hub_video_audio directory: A case for board, hub, speakers, display, and optional battery
 
 <img src="rp6502_hub_video_audio/rp6502_hub_video_audio_front.png" align="left" width="400px"/>
 
