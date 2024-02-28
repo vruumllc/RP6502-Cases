@@ -3,9 +3,9 @@
 
 #### rp6502 directory: A case for the circuit board alone
 
-<img src="rp6502/rp6502_front.png" align="left" width="400px"/>
+<img src="rp6502/rp6502_front.png" align="left" width="350px"/>
 
-<img src="rp6502/rp6502_back.png" align="right" width="450px"/>
+<img src="rp6502/rp6502_back.png" align="right" width="400px"/>
 
 <br clear="right"/>
 
