@@ -13,7 +13,7 @@
 
 <img src="rp6502_hub/rp6502_hub_front.png" align="left" width="350px"/>
 
-<img src="rp6502_hub/rp6502_hub_back.png" align="right" width="450px"/>
+<img src="rp6502_hub/rp6502_hub_back.png" align="right" width="400px"/>
 
 <br clear="right"/>
 
